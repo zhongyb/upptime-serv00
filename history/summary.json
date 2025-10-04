@@ -24,8 +24,8 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 223,
@@ -34,7 +34,6 @@
     "timeMonth": 277,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-10-03": 4,
       "2025-09-15": 15
     }
   },
