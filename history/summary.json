@@ -6,14 +6,14 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "82.68%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.53%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.90%",
     "time": 155,
-    "timeDay": 214,
-    "timeWeek": 136,
-    "timeMonth": 115,
+    "timeDay": 59,
+    "timeWeek": 137,
+    "timeMonth": 114,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2025-10-14": 16,
@@ -38,13 +38,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 72,
-    "timeWeek": 131,
-    "timeMonth": 127,
+    "timeDay": 70,
+    "timeWeek": 135,
+    "timeMonth": 124,
     "timeYear": 183,
-    "dailyMinutesDown": {
-      "2025-09-15": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -58,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 297,
-    "timeDay": 352,
+    "timeDay": 320,
     "timeWeek": 283,
-    "timeMonth": 238,
+    "timeMonth": 237,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2025-12-17": 25
